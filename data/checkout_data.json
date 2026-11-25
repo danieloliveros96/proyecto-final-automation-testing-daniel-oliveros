@@ -1,0 +1,8 @@
+{
+  "valid": {"first_name": "Daniel", "last_name": "Oliveros", "postal_code": "1870"},
+  "invalid": [
+    {"first_name": "", "last_name": "Oliveros", "postal_code": "1870", "message": "First Name is required"},
+    {"first_name": "Daniel", "last_name": "", "postal_code": "1870", "message": "Last Name is required"},
+    {"first_name": "Daniel", "last_name": "Oliveros", "postal_code": "", "message": "Postal Code is required"}
+  ]
+}
