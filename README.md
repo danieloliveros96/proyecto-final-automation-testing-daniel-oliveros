@@ -25,7 +25,7 @@ Framework de testing automatizado en Python que combina pruebas de **UI** (Selen
 
 ## Instalación
 ```bash
-git clone <https://github.com/danieloliveros96/automation-saucedemo-pre-entrega.git>
+git clone <https://github.com/danieloliveros96/proyecto-final-automation-testing-daniel-oliveros>
 cd proyecto-final-automation-testing-daniel-oliveros
 python -m venv .venv
 # Windows (Git Bash): source .venv/Scripts/activate
